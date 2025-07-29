@@ -20,6 +20,7 @@
         </div>
         @endforeach
     </div>
+    <a href="/posts/create">create</a>
 </body>
 
 </html>
